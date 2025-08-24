@@ -3,11 +3,11 @@ import torch
 import torch.nn as nn
 
 class CES360Nano(nn.Module):
-    def __init__(self,     vocab_size=50000,
-    d_model=3072,      # ← AUMENTATO
-    n_heads=24,        # (16 funziona bene con 2560)
-    n_layers=16,       # puoi lasciarlo a 16
-    d_ff=12288,        # aumenta proporzionalmente: 4x d_model
+    def __init__(self,   vocab_size=50000,
+    d_model=3072,      
+    n_heads=24,        
+    n_layers=16,       
+    d_ff=12288,     
     max_len=1024
 ):
         super().__init__()
