@@ -1,0 +1,17 @@
+torch
+transformers
+sentencepiece
+tokenizers
+numpy
+tqdm
+gdown
+PyPDF2
+python-docx
+Pillow
+pytesseract
+beautifulsoup4
+requests
+duckduckgo-search
+flask
+chromadb
+llama-cpp-python
