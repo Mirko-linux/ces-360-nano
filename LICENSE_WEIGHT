@@ -1,35 +1,14 @@
-CES Weight Public License (CES-WPL)
+CC0 1.0 Universal (Public Domain Dedication)
 
-Version 1.0 – August 2025  
-Author: Mirko Linux (https://github.com/Mirko-linux)
+I, the creator of this model, hereby waive all copyright and related rights to the weights of this language model to the fullest extent permitted by law.
 
-Summary:
-This license governs the use of model weights ("Weights") released under the CES Weight Public License. It is designed to encourage open research and experimentation while requiring attribution only for commercial use.
+This means:
+- You may copy, modify, distribute, and use the weights for any purpose, including commercial use, without asking permission.
+- No attribution is required.
+- These weights are provided "as-is", without warranty of any kind.
 
-1. Permissions
-Subject to the conditions below, you are free to:
-- Use the Weights for any purpose, including research, education, and non-commercial applications.
-- Modify, adapt, and build upon the Weights.
-- Share the Weights and derivative works.
+For full legal details, see the official CC0 1.0 Universal license:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
-2. Conditions
-- **Attribution is required only for commercial use.**  
-  If you use the Weights or any derivative work in a commercial product, service, or monetized deployment, you must provide clear attribution to the original author:
-  > "Model weights derived from CES-WPL by Mirko Linux (https://github.com/Mirko-linux)"
-
-- **No warranty.**  
-  The Weights are provided "as is", without warranty of any kind. The author is not liable for any damages or losses resulting from their use.
-
-3. Definitions
-- **Commercial use** means any use intended for monetary gain, including but not limited to: paid services, enterprise deployments, advertising-supported platforms, or integration into commercial software.
-- **Non-commercial use** includes academic research, personal experimentation, open-source projects, and educational purposes.
-
-4. Termination
-Violation of the above conditions may result in termination of your rights under this license.
-
-5. Optional Citation
-If you use the Weights in a publication, you are encouraged (but not required) to cite the original repository or author.
-
----
-
-This license is not OSI-approved and may not be recognized as "open source" under GitHub's automated classification. However, it is legally binding and designed to balance openness with fair attribution.
+Date of release: 25/08/2025
+Author: Mirko Yuri Donato
